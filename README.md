@@ -37,7 +37,7 @@ Screenshots:
 
 Links:
 
-Forum - WIP
+Forum - https://forum.kerbalspaceprogram.com/topic/230057-moarfx-more-visual-effects/
 
 GitHub - https://github.com/KerbalMissile/MoarFX
 
