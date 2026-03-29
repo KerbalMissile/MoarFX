@@ -27,6 +27,14 @@ Known issues:
 
 ---
 
+Screenshots:
+
+<img width="1920" height="1080" alt="screenshot31" src="https://github.com/user-attachments/assets/e188fe91-b88a-4fca-b56a-507078e1d7d4" />
+
+<img width="1920" height="1080" alt="screenshot30" src="https://github.com/user-attachments/assets/cbd6cd86-5dbe-4f8b-a335-099067744a84" />
+
+---
+
 Links:
 
 Forum - WIP
