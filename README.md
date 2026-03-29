@@ -33,6 +33,8 @@ Screenshots:
 
 <img width="1920" height="1080" alt="screenshot30" src="https://github.com/user-attachments/assets/cbd6cd86-5dbe-4f8b-a335-099067744a84" />
 
+<img width="1920" height="1080" alt="screenshot32" src="https://github.com/user-attachments/assets/3fa67e9b-6f03-4c79-a04a-0c64d74beafc" />
+
 ---
 
 Links:
